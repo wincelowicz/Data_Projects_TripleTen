@@ -4,7 +4,7 @@ Projects I worked on while attending the Business Intelligence Analysis TripleTe
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Superstore Sales/returns Analysis|Examine sales and return data to identify patterns and areas for potential enhancement.|
-| 2 | Project 2 | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | Project 3 | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Project 4 | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | AirBnB Rental Analysis|Analyze raw AirBnB data to determine criteria for a rental purchase that would maximize ROI.|
+| 2 | Superstore Sales/returns Analysis|Examine sales and return data to identify patterns and areas for potential enhancement.| https://public.tableau.com/views/Superstore_Sprint6/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+| 3 | Shopify App Analysis | Analyze raw Shopify Data to determine what key factors make a successful Shopify store. |
+| 4 | Zomato Customer Segmentation/Analysis | Segment Zomato users and determine which segment is responsible for most sales. | https://public.tableau.com/app/profile/stephen.wincelowicz/viz/FinalProjectv1_0_17097606203440/Story1
